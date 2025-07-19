@@ -1,1 +1,1 @@
-"# JS_COOL" 
+# JS_COOL
